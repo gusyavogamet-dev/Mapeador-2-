@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Key Mapper</string>
+    <string name="service_desc">Converte teclas do teclado físico em toques na tela.</string>
+</resources>
